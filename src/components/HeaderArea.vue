@@ -12,7 +12,7 @@
         <ul class="header-nav">
           <li><a href="/">Home</a></li>
           <li>
-            <a href="/about">About</a>
+            <router-link to="/about">About</router-link>
             <ul>
               <li><a href="/faq">FAQ</a></li>
               <li><a href="/login">Login</a></li>
