@@ -19,10 +19,10 @@
               <li><a href="/registration">Registration</a></li>
             </ul>
           </li>
-          <li><a href="/shop">shop</a></li>
-          <li><a href="/services">Services</a></li>
-          <li><a href="/news">blog</a></li>
-          <li><a href="/contact">contact</a></li>
+          <li><router-link to="/shop">shop</router-link></li>
+          <li><router-link to="/services">Services</router-link></li>
+          <li><router-link to="/news">blog</router-link></li>
+          <li><router-link to="/contact">contact</router-link></li>
         </ul>
         <ul class="header-options">
           <li>
